@@ -61,4 +61,4 @@ else:
     st.warning("Veuillez téléverser un fichier CSV pour continuer.")
 
 # Titre de l'application
-st.title("Copyright 2024")
+st.header("Copyright 2024")
