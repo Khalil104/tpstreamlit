@@ -60,5 +60,5 @@ if uploaded_file is not None:
 else:
     st.warning("Veuillez téléverser un fichier CSV pour continuer.")
 
-# Titre de l'application
+# Pied de page de l'application
 st.header("Copyright 2024")
